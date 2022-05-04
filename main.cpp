@@ -20,7 +20,7 @@ int main(){
       cout<<(char)n<< endl;
     }
   }
-  
+ 
   
   return 0;
 }
